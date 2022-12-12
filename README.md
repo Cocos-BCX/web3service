@@ -4,8 +4,8 @@
 
 ![](./doc/img/extensions.jpg)
 
-- cd `{your project}/extensions/web3service` and run  `npm install`
-- Click Menu `web3service/import`, it will copy libs to your project
+- cd `{your project}/extensions/web3service` and run  `npm install`, `npm run build`
+- Reopen Cocos Creator Editor, Click Menu `web3service/import/ehers-5.2`, it will copy libs to your project
 
 ![](./doc/img/import.jpg)
 ![](./doc/img/libs.jpg)
